@@ -4,7 +4,7 @@ Location tracker is a **WPF** based tool used to parse data coming in from the d
 
 ## Getting Started
 
-1. Clone project from https://github.com/MantasVa/LocationTracker.
+1. Clone project from https://github.com/Aidanas93/LocationTracker.
 2. Open project solution.
 3. Start **LocationTracker.Client** project.
 4. Insert one of sample packets into the textbox and press Decode.
